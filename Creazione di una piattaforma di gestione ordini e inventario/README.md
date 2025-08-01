@@ -34,3 +34,7 @@ Con questo progetto metterai in pratica tutte le principali competenze backend m
 ---
 
 Questo progetto ti consentirà di sviluppare competenze complete di backend moderno, preparandoti alla realizzazione di soluzioni reali, robuste e pronte per l'uso in ambienti aziendali.
+
+## NOTE SULLA CONSEGNA
+
+Quando consegnerai il progetto, non includere la cartella node\_modules, per favore. Grazie!
