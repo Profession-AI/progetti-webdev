@@ -37,4 +37,4 @@ Questo progetto ti consentirà di sviluppare competenze complete di backend mode
 
 ## NOTE SULLA CONSEGNA
 
-Quando consegnerai il progetto, non includere la cartella node\_modules, per favore. Grazie!
+Quando consegnerai il progetto, **non includere** la cartella node\_modules nel file zip finale, per favore. Grazie!
